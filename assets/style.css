@@ -1,0 +1,64 @@
+html, body, section, h1, h2,
+span, div, form, input, nav, header{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+.fundo figure{
+    margin: flex;
+    
+}
+body{
+ background-image: url(563085.jpg);
+ background-repeat: no-repeat;
+ height: 100%;
+ background-size: 100%;
+}
+.perfil img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 50px;
+}
+h1{
+    font-size: 100px;
+    margin-left: 39%;
+    color: rgb(59, 125, 172);
+}
+.descricao h2{
+    display: flex;
+    font-size: 40px;
+    font-style: italic;
+    color: rgb(225, 223, 227);
+    margin: 15px;
+    position: center;
+}
+.descricao h3{
+    display: flex;
+    font-style: italic;
+    font-size: 25px;
+    color: rgb(222, 222, 225);
+    margin-left: 39px;
+    margin-bottom: 10px;
+}
+.descricao{
+    margin-top: 60px;
+    width: 80%;
+    height: 240px;
+    background-color: rgb(39, 39, 39);
+    margin-left: 140px;
+    
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    margin-left: 44%;
+    margin-top: 10px;
+    background-color: rgb(90, 170, 216);
+}
